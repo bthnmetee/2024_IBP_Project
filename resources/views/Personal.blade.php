@@ -58,7 +58,7 @@
        
         <tr>
             <td>Okul Numarası</td>
-            <td>2110213040</td>
+            <td>2110213062</td>
         </tr>
         <tr>
             <td>Bölümü</td>
