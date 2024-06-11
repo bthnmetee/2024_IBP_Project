@@ -50,7 +50,7 @@
 </head>
 <body>
     <img src="{{ asset('img/ben.jpg') }}" alt="ben">
-    <h1 class="bilgilerim">Emin Çakır</h1>
+    <h1 class="bilgilerim">Batuhan Mete</h1>
     <table>
         <tr>
             <th colspan="2">Bilgilerim</th>
